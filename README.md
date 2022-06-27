@@ -24,4 +24,5 @@ Functionality
 •	Can be accessed offline
 Design (wireframes)
 A two-dimensional illustration of a page's interface that specifically focuses on space allocation and prioritization of content, functionalities available, and intended behaviors. Each menu button will have a clean user interface that includes instructions.  The buttons will be large with large text so that they are easily identified.  The announcement section will display current information with an archive or cloud storge for limited historical announcements.  I would like for this section to display the company’s logo some type of picture in the background but that’s not for certain design feature at this moment.
+
 ![BE_INFORMED](https://user-images.githubusercontent.com/105384865/175845843-3c112f7d-bf2f-44b1-8785-674655cf2804.png)
